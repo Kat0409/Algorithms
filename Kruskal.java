@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class kruskal {
+public class Kruskal {
 
 	private int V;
 	private LinkedList<tuple> adj;
